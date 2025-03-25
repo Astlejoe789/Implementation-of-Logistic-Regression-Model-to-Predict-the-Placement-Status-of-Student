@@ -64,21 +64,27 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 Placement Data:
+
 ![image](https://github.com/user-attachments/assets/aced6675-2860-4dbe-8e2d-9124cf8e3de6)
 
 Checking the null() function:
+
 ![image](https://github.com/user-attachments/assets/e12e11ca-4c97-4d3f-9eb3-2ed7591c4bb3)
 
 Y_prediction array:
+
 ![image](https://github.com/user-attachments/assets/155b3c05-55e7-4da5-a4df-f891ec808158)
 
 Accuracy value:
+
 ![image](https://github.com/user-attachments/assets/7511f950-d99c-4bb7-9611-a696e5168e16)
 
 Classification Report:
+
 ![image](https://github.com/user-attachments/assets/1702c056-e177-4555-83cc-f1944848c0d2)
 
 Prediction of LR:
+
 ![image](https://github.com/user-attachments/assets/2b827c4a-94ff-42db-a353-df8cd38f1fe7)
 
 
