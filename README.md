@@ -69,8 +69,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![image](https://github.com/user-attachments/assets/f845e995-dfd9-4442-801c-a44f584ba19f)
 
-![image](https://github.com/user-attachments/assets/b7412b4a-f7ec-4e9b-9148-30d23c0448cb)
-
 ![image](https://github.com/user-attachments/assets/964e90d7-d5e2-4aee-91ad-ad27b69a3c98)
 
 ![image](https://github.com/user-attachments/assets/2d5b81d1-f66b-43f9-b530-a6c5c7833541)
